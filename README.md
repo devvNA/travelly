@@ -34,4 +34,4 @@ Aplikasi mobile untuk pemesanan tiket wisata dan manajemen destinasi wisata. Dib
 | :----------------------------: | :----------------------------: |
 | <img src="1.jpg" width="230"/> | <img src="2.jpg" width="230"/> |
 |          Screenshot 3          |          Screenshot 4          |
-| <img src="4.jpg" width="230"/> | <img src="5.jpg" width="230"/> |
+| <img src="4.jpg" width="230"/> | <img src="4.jpg" width="230"/> |
